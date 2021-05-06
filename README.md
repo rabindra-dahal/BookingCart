@@ -1,5 +1,3 @@
-# practical-6
-
 ## Project setup
 ```
 npm install
